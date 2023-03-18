@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dynamic-reef-374823",
+  "private_key_id": "e29de7ed46f2bc3e6979bd02a17f9b4ac635f01e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC06Xa/FsoqS3DB\nsj6CubZFhzSN60+JJbhrouUeYPyi1cGuGQSXTbZ5eGzL2cCGD1Toftty5e/Opg4C\n9acMkAtpAj5xMoyELveCd0yKJQEPclPk/ud27G4wW+hdjtS9OYjBrUI2oczFwWub\nW6o4GKuvSCFdx6uuB13Av6uQVT6umUqjzuiSCz1l8i3uJSVGVDb2i4p1gUbeqieS\nGIUr2Z+0KA8qcoiaaJIwQXTDdrBSz6O1uZ0mgRQ+bkFZ6XJG5vOyZXJDccaHtuSM\nRsKi5GgL84AzlWLBwXOCtISx6gtSMEMaUgESdrZNpr/U9KDNqoqe0GAurpOct6wV\nj7dKqO0jAgMBAAECggEAVXo9nfnxmVw9sXc7a969TUqdvTRiRwWohkrYAKuIkpN2\nyICPl8GjJu+MUCDZgz35O0S9ASO9U6FH24Qf4qKokXv67tcYZ1gdn+ooItlrD9ZP\n51G9IYaCZZz3REU5JRLrF796GoAGVaWW5ze/THPzooTtJvcxma9nT6wALtjoHewI\nIfgok3ajLW85G7BTI/xX23uCw/sW+/p+rFpwm+im3U2S4aYxU68FhQvzuwxiZE8t\nNYljEPs+WRzR/2R6ZpybwDZfjWhqdgoITbAs/6YcIjdaQVKFd8DMkeMgrD7gkAmK\nmG/CF4vg2ZKTEibcRDa85sydCMvioDrymhPEGP+uoQKBgQD54OxHh7irykU4Ra76\nvKqWaNiPyrAhkxz6dD2pldwEu8jHfQckIGhYyAgWQdCwK4v3d8rx6bQCk1H2vEs4\nCKUxWvWQ/nJo/vjOwZC8XAWyKEPOIQZsLPUHFTVOSytWlHpSPOGrbKas6lhvgOY6\ng0d8OsSbcl6s9dfYtTgpepB0cwKBgQC5WAbYEj2uFrUuYaO0U/IAUxJsmr8QrxZE\n5RkpQ3R+DzpZFjMso7tYzEF2/HfMefVcF4RcmE9xc5fyL5M3kFXlQZoP6n6cJ+s/\nQVHG0Vb4Slro1qNgjOz+krghAJJnEc5KmXpVcEG1yuJ38JEjAobUCxe/1GMvcgIB\nJxhyjIcokQKBgCMKHVfyejzswkQf0WerqSgqT6PqQkSTAo9EWZk8QHwRcRg4OhYg\nzUEV27xzQjZSBPCQxc6ifPGXgvjccpfK7o87OBA6/gQnLPChSBCBvvK6nrd6/hGR\nRFLX8H+oHs2nSHfbvbFyLPU2b2xDYQV3f0C2ZPd/VDNgzgG/d76pRzRtAoGATSIP\nJxjgRnT4zeaghElzKyNnRX9ZCI51DBLz17JU5qlbtPuCLI+vRhMrI2OKT7Rpofu/\nf/F7DlH26DlYYQVWWeRlQz5pln8ebeK3L7CrKwV2s/OvZlz/vCo/KqzcQLyuR2l7\n+daP4iIfAZ9CJ3nDtrcvGQxAgtxFbUlh6ToGfaECgYEAu2eONts6VeP6k59z5HNG\nQlO5Lw9cR1qWV/G8JoH/OeM8A9GGRJrdcV9rlIMldblmtVS7DGtNB2Tni4jjXMoR\n95LXiozDTOkH5yyMnsNDEfv3Kv2AWvb4M7Ol805ltUlYfGw9G2ec3RZAxjPikNGB\nyqBoEV+4FEUJ1mzbhEGANYo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cnx-bq-python@dynamic-reef-374823.iam.gserviceaccount.com",
+  "client_id": "117496412913117841400",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cnx-bq-python%40dynamic-reef-374823.iam.gserviceaccount.com"
+}

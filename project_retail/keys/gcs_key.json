@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dynamic-reef-374823",
+  "private_key_id": "fefe6e3039b8b093cd5ab4a1b280e50634dbf4df",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCowssMc/Ii0JVl\nSV+6rIcTk5gWGpHynhOA4HFBUkioBsfwgFuMkILhXfohk0gzcIlXt5hNgc4/9YCq\nhjHw+sebyAh4qjNm8kisuI2mDrKJEVJoLddTfCEUIa/ksdH/KAQVgoX9I/Cgx15l\ntRLJYnfiQMDX0JJwyW4vqoemz+mPGeAji6Pn73OpWM5cxd30g2D9AHT94aQzoxk2\n3/vPCcRbWDO/B2jpOryOiEuKoVgQdxjC9RjWsyS6wEjmJJMBEJMtAnMjwlQp/Zmn\n80eGtwdYv4YT5Nqk2JUDaka0orAgH0DeGz1t7R5heFTY/jwm8i5bZuVAzjduW1Bb\n1marLMb7AgMBAAECggEAEkb6imWPpAv2yiqkBrSDHUXUaGcbRxgDYRIDIhchIwA3\nrPPx4QDmXosjjnmu4vyoBfXZNbe+beM5uqjgWsrboyMLISppzmykyKlk6fGt42DF\nYzQSczUT42QcnTD8XzKRx/9EDLJU8CIiNp4MTqmZS0nxDiPwNZfolPABU2SG1UZu\neSJ0mkSodp4rhaLfGlOCC9lII1Ap/6JJLjW3FaYTGOGZOTu2w0Hr3RXJM+J0fHw4\nEpY4WSTK9ED+Zrgi0ZxkJHUilPP5q+jsvbLY/AgR3PieDtKI92ybFrYg+jcaxgft\nqLdDTHZL/gHBAZkD4HPKS+gIZKbNx5wklV7Nr58+vQKBgQDhpYFkRNyODmzdprs1\nm+ZjpI6WbnRCFe2+o+Y/COcmOirTnwYrhmMQ0RswEGinVml09u0O5u/WwNJ7GJbC\nvQr4XawCcQ2ZVZJgYUoxuGZperqYgkzj08EMYndd/mkQeUKrnnZI2LeNbwpEw1RR\n6rdYZwZaaufgxzJcnRgjEP9jXwKBgQC/dlecSTPfQ/DADqaiXSXQ0csnkbTn1Lvh\n9w9nO69bCjgmW3IyZIHHMvCzX/oNUd8RnGyJa+hasDcUxpqIK5KbXMWRfHJU0sxg\nsXPkKeA8ECvtgsK0ndsMXYHRrrO8bbxYDh7mCJjltlteEUx+1wTSaz5C8+N/ZnCd\n8kgRwPz95QKBgGAZQ4T3itL5M8YmRx6qubEAGTXZ7qtieXEyjlGUMhVmumyMEm2g\n+znjRGfw5RE3TQxiSU2KbuSQFFQWgcaICk8CXcpgaYE/H2rqpFWOihcsDKH9BFAX\nE+V5Xgrq2cYJTqqWfxvBKFMU0lO8uIF2rAT7Q4pocz6Yt0sYIHp2t72TAoGBAJ5Z\nx04IMTG35FdEBseEmLEjwo1AcknHZXkXOBMehwKZ6iS3PzS0ca2J0Q/aElqP2xma\nsR3bNHpFAdlaBRcYSpHaYcDZF0pWahiSy5HqnH2wtlQi8NwnLrMEZ0k/34G5lKuT\nSjTg6WwbrWeYkRbayS8q6XzAb+i/lebcKoUcg2GNAoGAF36rUVPqWDVptseRLL+w\nle0uB60y3SuIPF2zVuFcPgAgClaKA3mhV+3r7P9/5dnxsPSMSXvs8/Z8f61OUrYp\ntokj2SkZzyquEY6LDwnoqlooBIumIo/g8TNTB9LzHkE36micCPARJ6oCsGzh22Lr\n5e7bI2zotZqrIj0nd3v7OXM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "upload-project-dp@dynamic-reef-374823.iam.gserviceaccount.com",
+  "client_id": "103732164318852386702",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/upload-project-dp%40dynamic-reef-374823.iam.gserviceaccount.com"
+}
